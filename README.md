@@ -86,6 +86,13 @@ Development paper[1]└── Examples/Example_6_GBAY.m %<- An example of the po
 
 See [Testing](#testing) to test OceanMesh2D on your system.
 
+
+Note by jsasaki
+
+- Download high resolution coastlines of [GSHHS](http://www.soest.hawaii.edu/pwessel/gshhg/gshhg-shp-2.3.7.zip), unzip them and copy them onto `OceanMesh2D/utilities/` (`setup.sh` does not install high resolution coastlines). Delete `OceanMesh2D/utilities/GSHHS/` if existing.
+- Add the folder of `OceanMesh2D/utilities/` with its sub-folders.
+
+
 Testing
 ==========
 
