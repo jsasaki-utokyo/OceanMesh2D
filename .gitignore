@@ -9,7 +9,7 @@ Examples/*
 *.13
 *.24
 *.nc
-utilities/gshhg-shp-2.3.7/
+datasets/gshhg-shp-2.3.7/
 utilities/GSHHS/
 shared-data/
 m_map1.4.tar.gz
